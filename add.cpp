@@ -4,3 +4,4 @@
 int main();
 
 cout <<“sas”;
+cout << endl;
